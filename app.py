@@ -224,8 +224,7 @@ EXAMPLES = [
 
 with st.sidebar:
     st.markdown("### Solvency Metrics Copilot")
-    st.caption("Prototype illustratif. Données entièrement synthétiques, RWA = exposition × pondération "
-               "selon la notation : ce n'est pas un calcul réglementaire.")
+    st.caption("Prototype illustratif.")
     using_llm = bool(api_key) and st.session_state.llm_count < MAX_LLM_MESSAGES
     st.markdown(f"<span class='tag'>{'Mistral : ' + model if using_llm else 'Mode démo'}</span>"
                 f"<span class='tag'>Clôture M = {fdate(D1)}</span>", unsafe_allow_html=True)
