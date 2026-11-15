@@ -1,0 +1,26 @@
+[
+  {
+    "id": "AN-014",
+    "date": "2026-08-31",
+    "metric": "leverage_ratio",
+    "title": "Clôture d'août : variation du ratio de levier liée aux opérations de financement sur titres",
+    "author": "Analyste (fictif)",
+    "summary": "Hausse de la mesure d'exposition due aux SFT, sans effet sur le Tier 1."
+  },
+  {
+    "id": "AN-011",
+    "date": "2026-04-02",
+    "metric": "leverage_ratio",
+    "title": "Pic de fin de trimestre (31/03) sur la mesure d'exposition",
+    "author": "Analyste (fictif)",
+    "summary": "Effet de fin de trimestre sur les opérations de financement sur titres, résorbé le mois suivant."
+  },
+  {
+    "id": "AN-009",
+    "date": "2026-07-31",
+    "metric": "rwa_credit",
+    "title": "Clôture de juillet : hausse portée par les nouvelles opérations Énergie",
+    "author": "Analyste (fictif)",
+    "summary": "Quelques nouvelles opérations expliquent l'essentiel de la hausse mensuelle."
+  }
+]
